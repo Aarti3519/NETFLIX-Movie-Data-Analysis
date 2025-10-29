@@ -4,6 +4,13 @@ Analyzed 9,000+ Netflix movies using Python (Pandas, NumPy) to identify frequent
 # Project Goal
 To systematically clean a movie dataset and derive meaningful insights regarding movie genres, voting patterns, and temporal trends using Python's data analysis and visualization libraries.
 
+# Objectives of Analysis
+- Understand content distribution by genre, country, and year.
+- Identify top-performing directors and actors based on content count.
+- Analyze release trends and how Netflix’s content library evolved.
+- Examine ratings and duration patterns to identify viewer preferences.
+- Explore the ratio of Movies vs. TV Shows and content trends over time.
+
 # Key Analysis and Insights
 The following questions were answered using the cleaned data:
 - Most Frequent Genre: Drama is the most frequent genre, accounting for over 14% of all genre mentions in the dataset.
